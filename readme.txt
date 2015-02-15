@@ -4,3 +4,4 @@ Git has a mutable index called stage.
 git track chages
 Git tracks changes of files.
 My stupid boss still prefers SVN.
+加上一行
