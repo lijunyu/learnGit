@@ -5,4 +5,5 @@ git track chages
 Git tracks changes of files.
 My stupid boss still prefers SVN.
 加上一行
-主干上修改
+主干上修改主干上修改
+修改一样
